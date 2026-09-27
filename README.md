@@ -20,13 +20,13 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 1. Open up the `recipe.txt` file using `nano`
 2. On line 3, add your own name after `Author:` so that it says `Author: Stevie Wonder` or whatever your name is
 3. Whoever wrote this recipe didn't know how to spell "parmesan", so instead they wrote "parm". Please update the two instances of "Parm" to "Parmesan". You can do this manually or by using nano's replace feature.
-4. Write out your changes! Close the file.
+4. Save your changes and close the file!
 
 ### Part 2
 
 1. Open up the `website.html` file with `nano`
 2. This HTML file contains a simple website for a fictional restaurant called "Ristorante Colt". You recently purchased the restaurant and have decided to change its name! Please replace all instances of "Ristorante Colt" with your new restaurant's name. Do this using a nano shortcut, rather than manually replacing each one.
-3. Save your changes and close the file!
+3. Write out your changes! Close the file.
 
 ### Part 3
 
