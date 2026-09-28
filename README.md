@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/TES6KV4.png" height="40%" width="60%" alt="Linux"/>
+<img src="https://i.imgur.com/r2cytOp.png" height="40%" width="60%" alt="Linux"/>
 </p>
 <h1>Linux Exercise: Nano</h1>
 
@@ -43,12 +43,128 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 
 ### Part 1
 
-**1. Create a new folder called `my-app`**
+**1. Lorem ipsum**
 <p>
-<img src="https://i.imgur.com/OmTD8rX.png" height="100%" width="100%"/>
+<img src="https://i.imgur.com/KYIxazS.png" height="100%" width="100%"/>
 </p>
 
-To get started, I used `mkdir my-app` to create a new directory called `my-app`.
+Lorem ipsum
+
+<br />
+<br />
+
+**2. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**3. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**4. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+### Part 2
+
+**1. Lorem ipsum**
+<p>
+<img src="https://i.imgur.com/Dt4BYFP.png" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**2. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**3. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+### Part 3
+
+**1. Lorem ipsum**
+<p>
+<img src="https://i.imgur.com/xigqKkZ.png" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**2. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**3. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+### Bonus
+
+**1. Lorem ipsum**
+<p>
+<img src="https://i.imgur.com/oFFwILJ.png" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+**2. Lorem ipsum**
+<p>
+<img src="" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
 
 <br />
 <br />
