@@ -25,7 +25,7 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 ### Part 2
 
 1. Open up the `website.html` file with `nano`
-2. This HTML file contains a simple website for a fictional restaurant called "Ristorante Colt". You recently purchased the restaurant and have decided to change its name! Please replace all instances of "Ristorante Colt" with your new restaurant's name. Do this using a nano shortcut, rather than manually replacing each one.
+2. This HTML file contains a simple website for a fictional restaurant called "Ristorante Colt". You recently purchased the restaurant and have decided to change its name! Please replace all instances of "Ristorante Colt" with your new restaurant's name. Use a nano shortcut rather than manually replacing each one.
 3. Write out your changes! Close the file.
 
 ### Part 3
@@ -55,7 +55,7 @@ Lorem ipsum
 
 **2. Lorem ipsum**
 <p>
-<img src="" height="100%" width="100%"/>
+<img src="https://i.imgur.com/gqA33zs.png" height="100%" width="100%"/>
 </p>
 
 Lorem ipsum
@@ -65,7 +65,7 @@ Lorem ipsum
 
 **3. Lorem ipsum**
 <p>
-<img src="" height="100%" width="100%"/>
+<img src="https://i.imgur.com/PRc3bp2.png" height="100%" width="100%"/>
 </p>
 
 Lorem ipsum
@@ -75,7 +75,7 @@ Lorem ipsum
 
 **4. Lorem ipsum**
 <p>
-<img src="" height="100%" width="100%"/>
+<img src="https://i.imgur.com/mmph5Je.png" height="100%" width="100%"/>
 </p>
 
 Lorem ipsum
@@ -97,7 +97,34 @@ Lorem ipsum
 
 **2. Lorem ipsum**
 <p>
-<img src="" height="100%" width="100%"/>
+<img src="https://i.imgur.com/IOKJD6T.png" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/BmzuKtO.png" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/7DWJP9y.png" height="100%" width="100%"/>
+</p>
+
+Lorem ipsum
+
+<br />
+<br />
+
+<p>
+<img src="https://i.imgur.com/CgD95we.png" height="100%" width="100%"/>
 </p>
 
 Lorem ipsum
@@ -107,7 +134,7 @@ Lorem ipsum
 
 **3. Lorem ipsum**
 <p>
-<img src="" height="100%" width="100%"/>
+<img src="https://i.imgur.com/29O9fPa.png" height="100%" width="100%"/>
 </p>
 
 Lorem ipsum
