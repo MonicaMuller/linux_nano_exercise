@@ -48,7 +48,7 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 <img src="https://i.imgur.com/KYIxazS.png" height="100%" width="100%"/>
 </p>
 
-I navigated to the 'NanoExercise' directory and used 'nano recipe.txt' to open the file.
+I navigated to the `NanoExercise` directory and used `nano recipe.txt` to open the file.
 
 <br />
 <br />
@@ -78,7 +78,7 @@ Since the replace feature is used later in this exercise and the word that needs
 <img src="https://i.imgur.com/mmph5Je.png" height="100%" width="100%"/>
 </p>
 
-I used "Ctrl+S" to save the file.
+I used `Ctrl+S` to save the file.
 
 <br />
 <br />
@@ -90,7 +90,7 @@ I used "Ctrl+S" to save the file.
 <img src="https://i.imgur.com/Dt4BYFP.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used the `nano website.html` command to open the `website.html` file in nano.
 
 <br />
 <br />
@@ -100,7 +100,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/IOKJD6T.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used `Ctrl+R` to use the replace feature and typed the words I wanted to replace.
 
 <br />
 <br />
@@ -109,7 +109,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/BmzuKtO.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I pressed `Enter` and typed the new words to use in place of the words I wanted to replace.
 
 <br />
 <br />
@@ -118,7 +118,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/7DWJP9y.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+After pressing `Enter`, the replace feature selects the first instance of the words I want to replace and asks whether or not I want to replace it or all instances.
 
 <br />
 <br />
@@ -127,7 +127,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/CgD95we.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I pressed `A`, so all instances were replaced at the same time.
 
 <br />
 <br />
@@ -137,7 +137,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/29O9fPa.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used `Ctrl+O` and `Enter` to save the file, then `Ctrl+X` to exit the file.
 
 <br />
 <br />
