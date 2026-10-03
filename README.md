@@ -48,7 +48,7 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 <img src="https://i.imgur.com/KYIxazS.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I navigated to the 'NanoExercise' directory and used 'nano recipe.txt' to open the file.
 
 <br />
 <br />
@@ -58,7 +58,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/gqA33zs.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I moved the cursor to "Author:" and typed my name.
 
 <br />
 <br />
@@ -68,7 +68,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/PRc3bp2.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+Since the replace feature is used later in this exercise and the word that needs to be replaced only occurs twice in a small file, I chose to manually change each instance of "Parm" to "Parmesan". However, if it would have been more time-consuming to do this, the replace feature would be better.
 
 <br />
 <br />
@@ -78,7 +78,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/mmph5Je.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used "Ctrl+S" to save the file.
 
 <br />
 <br />
