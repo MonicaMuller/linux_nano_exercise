@@ -68,7 +68,7 @@ I moved the cursor to `Author:` and typed my name.
 <img src="https://i.imgur.com/PRc3bp2.png" height="100%" width="100%"/>
 </p>
 
-Since the replace feature is used later in this exercise and the word that needs to be replaced only occurs twice in a small file, I chose to manually change each instance of "Parm" to "Parmesan". However, if it would have been more time-consuming to do this, the replace feature would be better.
+Since the replace feature is used later in this exercise and the word that needs to be replaced only occurs twice in a small file, I chose to manually change each instance of "Parm" to "Parmesan". However, if it would have been more time-consuming to do this, the replace feature would have been better.
 
 <br />
 <br />
