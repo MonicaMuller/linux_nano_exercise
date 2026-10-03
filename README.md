@@ -58,7 +58,7 @@ I navigated to the `NanoExercise` directory and used `nano recipe.txt` to open t
 <img src="https://i.imgur.com/gqA33zs.png" height="100%" width="100%"/>
 </p>
 
-I moved the cursor to "Author:" and typed my name.
+I moved the cursor to `Author:` and typed my name.
 
 <br />
 <br />
@@ -149,7 +149,7 @@ I used `Ctrl+O` and `Enter` to save the file, then `Ctrl+X` to exit the file.
 <img src="https://i.imgur.com/xigqKkZ.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used the `nano country-data.json` command, and at the bottom, ` [Read 39073 lines] ` verifies that there are over 39,000 lines in the file.
 
 <br />
 <br />
@@ -159,7 +159,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/gqTG9Ej.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used the nano shortcut `^/` (`Ctrl+/`) to go to a specific line, then I typed `15399` and pressed `Enter`. (I also changed the color theme to better see the text)
 
 <br />
 <br />
@@ -168,7 +168,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/jJBSS4O.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I looked to the right of the cursor and confirmed that `Honrdras` was there.
 
 <br />
 <br />
@@ -177,7 +177,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/GsGkqE6.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I moved the cursor to the right and manually corrected the word, then saved the file.
 
 <br />
 <br />
@@ -187,7 +187,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/7oAiFw0.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used the `man nano` command to go to the man page for the `nano` command. In the man page, I found that putting `+` and the line number between `nano` and the file name would open the file with the cursor on the stated line.
 
 <br />
 <br />
@@ -196,7 +196,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/dbdX92z.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I typed the `nano +15399 country-data.json` command, then pressed `Enter`.
 
 <br />
 <br />
@@ -205,7 +205,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/qDkjH60.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+As expected, the file opened to line 15,399, with the edit I made in Part 3, Step 2 being on the line with the cursor.
 
 <br />
 <br />
