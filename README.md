@@ -217,7 +217,7 @@ As expected, the file opened to line 15,399, with the edit I made in Part 3, Ste
 <img src="https://i.imgur.com/oFFwILJ.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I used the `nano recipe.txt` command, then manually scrolled to the last line.
 
 <br />
 <br />
@@ -227,7 +227,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/XX5d8Gt.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I pressed `Ctrl+G` to get to the Help page of nano, then searched for the word "Insert"; I found that `^R` would insert another file into the file I was in.
 
 <br />
 <br />
@@ -236,7 +236,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/IBDzTR2.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I exited the Help page by pressing `Ctrl+X`, then pressed `Ctrl+R`. `./` means that the available files I can insert will be from the current directory, which is `NanoExercise`. I began typing the name of the file and used `Tab` to autocomplete, then pressed `Enter`.
 
 <br />
 <br />
@@ -245,7 +245,7 @@ Lorem ipsum
 <img src="https://i.imgur.com/zOkiS5Q.png" height="100%" width="100%"/>
 </p>
 
-Lorem ipsum
+I confirmed that the text from `review.txt` was present at the bottom of `recipe.txt`, then saved the file.
 
 <br />
 <br />
