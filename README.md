@@ -10,17 +10,17 @@ Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Begin
 
 <h2>Commands & Shortcuts</h2>
 
-- nano <filename> — Opens a file in the nano text editor.
-- nano +<line number> <filename> — Opens a file in nano with the cursor positioned at a specified line.
-- man nano — Opens the manual page for the nano command.
-- Ctrl+S — Saves the current file.
-- Ctrl+O — Writes the current file to disk.
-- Ctrl+X — Exits nano.
-- Ctrl+\ (^\) — Opens the search-and-replace feature.
-- Ctrl+/ (^/) — Allows you to jump to a specified line and column.
-- Ctrl+G — Opens nano's help page.
-- Ctrl+R — Reads another file and inserts its contents into the current file.
-- Tab — Autocompletes a file or directory name when available.
+- `nano <filename>` — Opens a file in the nano text editor.
+- `nano +<line number> <filename>` — Opens a file in nano with the cursor positioned at a specified line.
+- `man nano` — Opens the manual page for the nano command.
+- `Ctrl+S` — Saves the current file.
+- `Ctrl+O` — Writes the current file to disk.
+- `Ctrl+X` — Exits nano.
+- `Ctrl+\` (`^\`) — Opens the search-and-replace feature.
+- `Ctrl+/` (`^/`) — Allows you to jump to a specified line and column.
+- `Ctrl+G` — Opens nano's help page.
+- `Ctrl+R` — Reads another file and inserts its contents into the current file.
+- `Tab` — Autocompletes a file or directory name when available.
 
 ## The Exercise
 
@@ -236,7 +236,7 @@ I used the `nano recipe.txt` command, then manually scrolled to the last line.
 <img src="https://i.imgur.com/XX5d8Gt.png" height="100%" width="100%"/>
 </p>
 
-I pressed `Ctrl+G` to get to the Help page of nano, then searched for the word "Insert"; I found that `^R` would insert another file into the file I was in.
+I pressed `Ctrl+G` to open nano's Help page, then searched for the word "Insert." I found that `^R` `(Ctrl+R)` would read another file and insert its contents into the current file.
 
 <br />
 <br />
