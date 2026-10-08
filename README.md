@@ -3,15 +3,24 @@
 </p>
 <h1>Linux Exercise: Nano</h1>
 
-In this exercise, I...
+In this exercise, I practiced using the nano text editor to open and edit files, search and replace text, navigate directly to specific lines, save changes, and insert the contents of one file into another.
 
 Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Beginner to Power User**, for providing both the exercise and the knowledge needed to complete it.
 <br />
 
-<h2>The Commands</h2>
+<h2>Commands & Shortcuts</h2>
 
-- A
-  - B
+- nano <filename> — Opens a file in the nano text editor.
+- nano +<line number> <filename> — Opens a file in nano with the cursor positioned at a specified line.
+- man nano — Opens the manual page for the nano command.
+- Ctrl+S — Saves the current file.
+- Ctrl+O — Writes the current file to disk.
+- Ctrl+X — Exits nano.
+- Ctrl+\ (^\) — Opens the search-and-replace feature.
+- Ctrl+/ (^/) — Allows you to jump to a specified line and column.
+- Ctrl+G — Opens nano's help page.
+- Ctrl+R — Reads another file and inserts its contents into the current file.
+- Tab — Autocompletes a file or directory name when available.
 
 ## The Exercise
 
@@ -68,7 +77,7 @@ I moved the cursor to `Author:` and typed my name.
 <img src="https://i.imgur.com/PRc3bp2.png" height="100%" width="100%"/>
 </p>
 
-Since the replace feature is used later in this exercise and the word that needs to be replaced only occurs twice in a small file, I chose to manually change each instance of "Parm" to "Parmesan". However, if it would have been more time-consuming to do this, the replace feature would have been better.
+Since the replace feature is used later in this exercise and the word that needs to be replaced only occurs twice in a small file, I chose to manually change each instance of "Parm" to "Parmesan". However, if it had been more time-consuming to change them manually, the replace feature would have been a better option.
 
 <br />
 <br />
@@ -149,7 +158,7 @@ I used `Ctrl+O` and `Enter` to save the file, then `Ctrl+X` to exit the file.
 <img src="https://i.imgur.com/xigqKkZ.png" height="100%" width="100%"/>
 </p>
 
-I used the `nano country-data.json` command, and at the bottom, ` [Read 39073 lines] ` verifies that there are over 39,000 lines in the file.
+I used `nano country-data.json` to open the file. The `[Read 39073 lines]` message at the bottom confirmed that the file contained more than 39,000 lines.
 
 <br />
 <br />
@@ -159,7 +168,7 @@ I used the `nano country-data.json` command, and at the bottom, ` [Read 39073 li
 <img src="https://i.imgur.com/gqTG9Ej.png" height="100%" width="100%"/>
 </p>
 
-I used the nano shortcut `^/` (`Ctrl+/`) to go to a specific line, then I typed `15399` and pressed `Enter`. (I also changed the color theme to better see the text)
+I used the nano shortcut `^/` `(Ctrl+/)` to go to a specific line, typed `15399`, and pressed `Enter`. I also changed the color theme to make the text easier to read.
 
 <br />
 <br />
@@ -205,7 +214,7 @@ I typed the `nano +15399 country-data.json` command, then pressed `Enter`.
 <img src="https://i.imgur.com/qDkjH60.png" height="100%" width="100%"/>
 </p>
 
-As expected, the file opened to line 15,399, with the edit I made in Part 3, Step 2 being on the line with the cursor.
+As expected, the file opened directly to line 15,399, where I could see the correction I made in Part 3, Step 2.
 
 <br />
 <br />
@@ -251,6 +260,6 @@ I confirmed that the text from `review.txt` was present at the bottom of `recipe
 <br />
 
 <p>
-✨ Lorem ipsum
+✨ It’s exciting to keep adding new Linux skills and becoming more comfortable doing things directly from the terminal. Nano felt a little unfamiliar at first, but after working through this exercise, I feel much more confident opening, editing, navigating, and saving files from the command line.
 </p>
 <br />
