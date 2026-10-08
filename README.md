@@ -100,7 +100,7 @@ I used the `nano website.html` command to open the `website.html` file in nano.
 <img src="https://i.imgur.com/IOKJD6T.png" height="100%" width="100%"/>
 </p>
 
-I used `Ctrl+R` to use the replace feature and typed the words I wanted to replace.
+I used `Ctrl+\` `(^\)` to open the replace feature and typed the words I wanted to replace.
 
 <br />
 <br />
