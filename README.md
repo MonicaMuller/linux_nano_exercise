@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://i.imgur.com/r2cytOp.png" height="40%" width="60%" alt="Linux"/>
 </p>
-<h1>Linux Exercise: Nano</h1>
+<h1>Linux Exercise: GNU Nano Text Editor</h1>
 
-In this exercise, I practiced using the nano text editor to open and edit files, search and replace text, navigate directly to specific lines, save changes, and insert the contents of one file into another.
+In this exercise, I used the GNU nano text editor to open and edit files, search and replace text, navigate directly to specific lines, save changes, and insert the contents of one file into another.
 
 Credit to Colt Steele’s Udemy course, **The Linux Command Line Bootcamp: Beginner to Power User**, for providing both the exercise and the knowledge needed to complete it.
 <br />
